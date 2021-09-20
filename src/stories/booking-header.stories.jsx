@@ -1,4 +1,6 @@
 import React from 'react';
+import '../globals.css';
+import '../styleguide.css';
 import { BookingHeader } from '../components/booking-header';
 
 export default {
